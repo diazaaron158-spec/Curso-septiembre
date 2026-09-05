@@ -650,10 +650,6 @@ body {
     .upsell-grid {
         grid-template-columns: 1fr;
     }
-    
-    .photo-large {
-        grid-column: auto;
-    }
 }
 
 @media (max-width: 768px) {
